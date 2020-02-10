@@ -23,3 +23,6 @@ Below is a list of all available snippets and the triggers of each one. The **â‡
 | Trigger | Content                                          |
 | ------: | ------------------------------------------------ |
 | `cla->` | adds class with constructor and module.exports ` |
+
+
+Another cool snippet that i used as reference: [xabikos/vscode-javascript ](https://github.com/xabikos/vscode-javascript)
