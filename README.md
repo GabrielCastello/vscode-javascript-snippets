@@ -1,5 +1,4 @@
-# g4br13l-js-snippets
-
+# G4BR13L VS Code JavaScript (ES6) snippets
 ## Installation
 
 In order to install an extension you need to launch the Command Pallete (Ctrl + Shift + P or Cmd + Shift + P) and type Extensions.
