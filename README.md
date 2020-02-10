@@ -1,4 +1,12 @@
 # G4BR13L VS Code JavaScript (ES6) snippets
+
+
+[![Version](https://vsmarketplacebadge.apphb.com/version/gabrielcastello.g4br13l-js-snippets.svg)](https://marketplace.visualstudio.com/items?itemName=gabrielcastello.g4br13l-js-snippets)
+[![Installs](https://vsmarketplacebadge.apphb.com/installs/gabrielcastello.g4br13l-js-snippets.svg)](https://marketplace.visualstudio.com/items?itemName=gabrielcastello.g4br13l-js-snippets)
+[![Ratings](https://vsmarketplacebadge.apphb.com/rating/gabrielcastello.g4br13l-js-snippets.svg)](https://marketplace.visualstudio.com/items?itemName=gabrielcastello.g4br13l-js-snippets)
+
+This extension contains code snippets for JavaScript in ES6 syntax for [Vs Code][code] editor (supports both JavaScript and TypeScript).
+
 ## Installation
 
 In order to install an extension you need to launch the Command Pallete (Ctrl + Shift + P or Cmd + Shift + P) and type Extensions.
