@@ -1,0 +1,20 @@
+{
+  "requireToConst": {
+    "prefix": "req",
+    "body": "const ${1:moduleName} = require('${1:module}');$0",
+    "description": "Require entire module to const"
+  },
+  "class": {
+    "prefix": "cla",
+    "body": [
+      "class $1 {",
+      "constructor($2, $3) {",
+      "this.$2 = $2;",
+      "this.$3 = $3;",
+      "}",
+      "}",
+      "module.exports = $1"
+    ],
+    "description": "Create class with default module.exports"
+  }
+}
