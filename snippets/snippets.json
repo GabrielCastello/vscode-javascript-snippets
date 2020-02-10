@@ -4,17 +4,9 @@
     "body": "const ${1:moduleName} = require('${1:module}');$0",
     "description": "Require entire module to const"
   },
-  "class": {
-    "prefix": "cla",
-    "body": [
-      "class $1 {",
-      "constructor($2, $3) {",
-      "this.$2 = $2;",
-      "this.$3 = $3;",
-      "}",
-      "}",
-      "module.exports = $1"
-    ],
-    "description": "Create class with default module.exports"
-  }
+	"class": {
+		"prefix": "cla",
+		"body": "class ${1:className} {\n\tconstructor(${2:param1}, $3) {\n\t\tthis.${2:param1} = ${2:param1};\n\t\tthis.$3 = $3;\n}\n}\nmodule.exports = ${1:className};",
+		"description": "Create class with default module.exports"
+	}
 }
