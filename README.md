@@ -5,8 +5,12 @@ In order to install an extension you need to launch the Command Pallete (Ctrl + 
 There you have either the option to show the already installed snippets or install new ones. Search for **G4BR13L JavaScript (ES6) code snippets** and install it.
 
 ## Supported languages (file extensions)
-
-- JavaScript (.js)
+* JavaScript (.js)
+* TypeScript (.ts)
+* JavaScript React (.jsx)
+* TypeScript React (.tsx)
+* Html (.html)
+* Vue (.vue)
 
 ## Snippets
 
